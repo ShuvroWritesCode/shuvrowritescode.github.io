@@ -7,7 +7,7 @@ tag: [root, admin privileges, AWS, cloud security, administrator, create AWS adm
 description: 
 image:
     path: /assets/img/headers/post1.webp
-    lqip: data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABQAwCdASoUAAoAPzmGulOvKKWisAgB4CcJagC7ACGwP0eWgAD+6NnV9yPyMs1eB3QBjMRHFJl+w/EvNdHH1Qw22AA=
+    lqip: data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoUAAoAPpE4l0eloyIhMAgAsBIJaACpE8ADA192Ti/jhBzIAAD+9vZ+1j0n8LHVZRfgyJkke300vfw9RFnD22urw1gEiHyTvlAfdWhXnr52S+coebgCbR7jfprtxFoMR7hn/IDjSa7DTE14qwa+PUoLDyI2zXwEimKJcAAA
 ---
 
 Hey everyone! I’ve been learning about AWS cloud security through [Cybr](https://cybr.com/courses/aws-certified-security-specialty-scs-c02-course/), and I put together some notes during my learning journey. These started out as raw notes, but I’ve polished them up to make them easier to follow. In this blog, I’ll share tips on securing an AWS user account with best practices. Hope you find it helpful!

@@ -7,10 +7,12 @@ tag: [Generative AI, Data Preprocessing, Machine Learning, Natural Language Proc
 description:  
 image:
     path: /assets/img/headers/post2.webp
-    lqip: data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoUAAoAPzmEuVOvKKWisAgB4CcJZQDE2CGm8RQP7wy/TgAA/fz7pEhCBIrRiuASnz3RIfC/qoRk5vwgyTQu+fs6KsU0Emvcq/WgAA==
+    lqip: data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQAwCdASoUAAoAPpE4l0eloyIhMAgAsBIJZQAAW9leZAzPGi/gAP7XP869nDh+xTmrig7IkwQJYz4nl3S1T9f/OOI3nmdD/+pTlehBHqCwleUGnxrGML1cX3/b3wtuHSqwe3iV4eY3w9RqbYqoaiqkWzyC+gAA
 ---
 
-Data preprocessing is a ==critical step== in generative AI pipelines. It ensures the input data is clean, consistent, and optimized for model training, directly impacting the **model’s performance**. Here, in this blog we will learn about different data preprocessing techniques. 
+Data preprocessing is a **critical step** in generative AI pipelines. It ensures the input data is clean, consistent, and optimized for model training, directly impacting the **model’s performance**. Here, in this blog we will learn about different data preprocessing techniques. 
+
+[View Notebook](/assets/ipynb-files/Text_Preprocessing.ipynb)
 
 I used the famous *IMDB kaggle dataset*. Database link: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
@@ -516,6 +518,6 @@ print ("{0:20}{1:20}".format(word,wordnet_lemmatizer.lemmatize(word,pos='v')))
 
 > NOTE: Stemming & lamatization are same to retrieve root words but lamatization is worked good. Lamatization is slow & stemming is fast
 
----
+--- 
 
 
